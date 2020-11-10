@@ -1,0 +1,158 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PluginCodelab",
+            "cwd": "PluginCodelab",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "add_flutter_to_android",
+            "cwd": "add_flutter_to_android_app\\add_flutter_to_android",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02",
+            "cwd": "firebase-get-to-know-flutter\\step_02",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04",
+            "cwd": "firebase-get-to-know-flutter\\step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05",
+            "cwd": "firebase-get-to-know-flutter\\step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06",
+            "cwd": "firebase-get-to-know-flutter\\step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07",
+            "cwd": "firebase-get-to-know-flutter\\step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_09",
+            "cwd": "firebase-get-to-know-flutter\\step_09",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_3",
+            "cwd": "google-maps-in-flutter\\step_3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_4",
+            "cwd": "google-maps-in-flutter\\step_4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_5",
+            "cwd": "google-maps-in-flutter\\step_5",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example",
+            "cwd": "PluginCodelab\\example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step1_base",
+            "cwd": "startup_namer\\step1_base",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step2_use_package",
+            "cwd": "startup_namer\\step2_use_package",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step3_stateful_widget",
+            "cwd": "startup_namer\\step3_stateful_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step4_infinite_list",
+            "cwd": "startup_namer\\step4_infinite_list",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step5_add_icons",
+            "cwd": "startup_namer\\step5_add_icons",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step6_add_interactivity",
+            "cwd": "startup_namer\\step6_add_interactivity",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step7_navigate_route",
+            "cwd": "startup_namer\\step7_navigate_route",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step8_themes",
+            "cwd": "startup_namer\\step8_themes",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03",
+            "cwd": "testing_codelab\\step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04",
+            "cwd": "testing_codelab\\step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05",
+            "cwd": "testing_codelab\\step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06",
+            "cwd": "testing_codelab\\step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07",
+            "cwd": "testing_codelab\\step_07",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
